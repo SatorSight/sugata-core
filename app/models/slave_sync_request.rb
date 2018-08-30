@@ -1,0 +1,2 @@
+class SlaveSyncRequest < ApplicationRecord
+end
